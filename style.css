@@ -1,0 +1,320 @@
+head {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #ffffff;
+    color: #333333;
+    font-family: "メイリオ", "Hiragino Kaku Gothic Pro", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/*header**************************/
+
+#header {
+    background-color: black;
+    color: white;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 80px;
+}
+
+#header li {
+    float: left;
+    margin: 0;
+    padding: 20px;
+    font-size: 18px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-right: 1px solid #444444;
+}
+
+#header a {
+    margin: 0;
+    color: white;
+    text-decoration: none;
+}
+
+#header li {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.locatecheck {
+    border-bottom: solid 5px #6666FF;
+    padding-bottom: 7px;
+}
+
+.head-list {
+    margin-top: 20px;
+}
+
+#header {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 80px;
+}
+
+/*footer**************************/
+
+#footer {
+    background-color: #2f5167;
+    color: white;
+    height: 160px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+#footer li {
+    font-size: 18px;
+}
+
+#footer a {
+    color: white;
+}
+
+.copyright {
+    text-align: center;
+}
+
+/*********************************/
+
+h1 {
+    padding-top: 20px;
+    font-size: 180%;
+    text-align: center;
+    margin: 0;
+}
+
+section {
+    padding-top: 40px;
+    padding-bottom: 60px;
+}
+
+ul time {
+    border-radius: 10px;
+    background-color: #999999;
+    color: #ffffff;
+}
+
+table {
+    border: 1px solid #333333;
+    font-size: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: #ccccff;
+    border: 1px solid #333333;
+    padding: 10px;
+    width: 20%;
+}
+
+tr {
+    border: 1px solid #333333;
+    padding: 10px;
+    width: 20%;
+}
+
+.homepicture {
+    background: linear-gradient(-45deg, rgba(246, 255, 0, .8), rgba(255, 0, 161, .8)), url(picture/flowers.jpg);
+    background-size: cover;
+    margin: 0 0;
+    padding: 180px 0;
+    text-align: center;
+    font-size: 360%;
+}
+
+.kuzu {
+    color: #505050;
+    padding: 0.5em;
+    margin-top: 50px;
+    display: inline-block;
+    line-height: 1.3;
+    background: #dbebf8;
+    vertical-align: middle;
+    border-radius: 25px 0px 0px 25px;
+    text-align: center;
+}
+
+.list-title {
+    color: #364e96;
+    border: solid 6px #364e96;
+    padding: 0.5em;
+    border-radius: 0.5em;
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 40px;
+    background-color: white;
+}
+
+.notice {
+    background: #dfefff;
+    box-shadow: 0px 0px 0px 5px #dfefff;
+    border: dashed 2px white;
+    padding: 0.2em 0.5em;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.noticelist {
+    text-align: center;
+}
+
+.duck {
+    zoom: 200%;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 50%;
+    border: 9px solid #66FFCC;
+    width: 180px;
+    height: 180px;
+}
+
+.pageback {
+    background: linear-gradient(-45deg, rgba(5, 255, 163, .8), rgba(5, 255, 163, .8)), url(picture/flower.jpg);
+    background-size: cover;
+    margin: 0 0;
+    padding: 60px 0;
+    text-align: center;
+}
+
+.list-border {
+    padding: 0;
+    margin: 2em 0;
+    margin-left: 150px;
+    margin-right: 150px;
+    border: double 5px #364e96;
+    background-color: rgba( 255, 255, 255, 0.65);
+}
+
+.profile-list {
+    margin: 0;
+    padding: 0;
+    background-color: rgba( 255, 255, 255, 0.65);
+    font-size: 150%;
+    text-align: left;
+}
+
+.top-space {
+    margin-top: 120px;
+}
+
+.secondtop-space {
+    margin-top: 40px;
+}
+
+.farvorite-top {
+    margin-top: 40px;
+}
+
+.favorite-list {
+    margin: 0;
+    padding: 0;
+    font-size: 150%;
+    text-align: center;
+}
+
+.table-back {
+    margin: 2em 0;
+    margin-left: 10%;
+    margin-right: 10%;
+    border: double 5px #364e96;
+    background-color: rgba( 255, 255, 255, 0.65);
+}
+
+.footer-list {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.standard {
+    margin-top: 10px;
+}
+
+.profile-list-title {
+    font-size: 150%;
+    margin: 0;
+    padding: 0;
+    background-color: rgba( 255, 255, 255, 0.65);
+    font-size: 150%;
+    text-align: left;
+    color: red;
+}
+
+.profile-list-indent {
+    padding-left: 24px;
+    margin: 0;
+    background-color: rgba( 255, 255, 255, 0.65);
+    font-size: 150%;
+    text-align: left;
+}
+
+/* 960px以下の場合 */
+
+@media(max-width:960px) {
+    #header img {
+        float: none;
+    }
+
+    .nav ul {
+        text-align: left;
+        padding: 0;
+    }
+}
+
+/* 680px以下の場合 */
+
+@media(max-width:680px) {
+    .nav li {
+        font-size: 75%;
+        padding-left: 2px;
+        padding-right: 2px;
+    }
+    
+    #header h1 {
+        font-size: 75%;
+        padding-left: 2px;
+        padding-right: 2px;
+    }
+
+    .notice {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .list-border {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .list-title {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .profile-list {
+        font-size: 75%;
+    }
+
+    #profile-list-title {
+        font-size: 75%;
+    }
+
+    p {
+        font-size: 50%;
+    }
+
+}
