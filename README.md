@@ -1,4 +1,4 @@
-# University-Experiment-Web
+# University-Experiment
 
 ## status
 作成期間：2018.4~2018.1 2回生
