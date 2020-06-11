@@ -1,0 +1,10 @@
+'CAT'	0	0	
+'HAND'	0	0	
+'MOUSE'	0	0	
+'FOOT'	0	0	
+'DOG'	0	0	
+'NOSE'	0	0	
+'HORSE'	0	0	
+'LEG'	0	0	
+'BIRD'	0	0	
+'FACE'	0	0	

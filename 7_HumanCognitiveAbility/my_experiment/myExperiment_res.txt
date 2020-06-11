@@ -1,0 +1,6 @@
+1	5	70	879	
+2	9	NaN	NaN	
+3	9	NaN	NaN	
+4	2	72	825	
+5	9	NaN	NaN	
+6	9	NaN	NaN	
